@@ -1,0 +1,4 @@
+jingoal
+password
+mysql
+root
